@@ -1,10 +1,11 @@
 # datafun-07-ml
 
-
 Title: Specification for Project 7 Machine Learning
 	
  Anjana Dhakal, 
  06/07/2024	
+
+ Objectives: This project 7 will use Supervised Machine learning to create a linear regression model for a data set and then use that model to make predictions.
 
 ## Create GitHub Repository
 ```
