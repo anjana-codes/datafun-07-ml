@@ -10,11 +10,35 @@ Title: Specification for Project 7 Machine Learning
 ```
  GitHub Repository: datafun-07-ml
  Documentation: README.md
-
- 
 ```
 
 ## Clone to VS Code 
 ```
 git clone site_URL
+```
+
+## Adding files 
+
+- Include a .gitignore file to exclude the .venv file from the rest of the Python environment.
+- Create a .venv to act as the virtual environment.
+- Add a requirements.txt file to hold the required project modules.
+
+
+## Create Project Virtual Environment
+```
+ py -m venv .venv
+.\.venv\Scripts\activate
+```
+
+## Install all Required Packages
+```
+ py -m pip install jupyterlab pandas pyarrow matplotlib seaborn
+ py -m pip freeze > requirements.txt
+```
+
+## Git add and commit
+```
+git add .
+git commit -m "start a project"
+git push origin main
 ```
