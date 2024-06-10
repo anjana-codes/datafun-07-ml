@@ -48,15 +48,7 @@ git push origin main
 
 - Part 1: Chart a Straight Line
 
-The points along any straight line (in two dimensions) can be calculated with the equation:
-y = mx + b
-where
-m is the line’s slope,
-b is the line’s intercept with the y-axis (at x = 0),
-x is the independent variable, and
-y is the dependent variable.
-
-In simple linear regression, y is the predicted value for a given x.
+Use plot method to display the linear relationship between the Fahrenheit and Celsius temperatures. The plot method’s style keyword argument controls the data’s appearance. The period in the string '.-' indicates that each point should appear as a dot, and the dash indicates that lines should connect the dots. 
 
 - Part 2: Predict Avg High Temp in NYC in January
 
