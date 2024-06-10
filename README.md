@@ -47,5 +47,19 @@ git push origin main
 ## APPLY: Implement 10.16 and 15.4
 
 - Part 1: Chart a Straight Line
+
+The points along any straight line (in two dimensions) can be calculated with the equation:
+y = mx + b
+where
+m is the line’s slope,
+b is the line’s intercept with the y-axis (at x = 0),
+x is the independent variable, and
+y is the dependent variable.
+
+In simple linear regression, y is the predicted value for a given x.
+
 - Part 2: Predict Avg High Temp in NYC in January
+
+Use Seaborn’s regplot function to plot each data point with the dates on the x-axis and the temperatures on the y-axis. The regplot function creates the scatter plot.
+
 - Part 3: Predict Avg High Temp in NYC in January
