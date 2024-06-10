@@ -46,6 +46,6 @@ git push origin main
 
 ## APPLY: Implement 10.16 and 15.4
 
-Part 1: Chart a Straight Line
-Part 2: Predict Avg High Temp in NYC in January
-Part 3: Predict Avg High Temp in NYC in January
+- Part 1: Chart a Straight Line
+- Part 2: Predict Avg High Temp in NYC in January
+- Part 3: Predict Avg High Temp in NYC in January
