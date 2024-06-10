@@ -23,7 +23,7 @@ git clone site_URL
 - Include a .gitignore file to exclude the .venv file from the rest of the Python environment.
 - Create a .venv to act as the virtual environment.
 - Add a requirements.txt file to hold the required project modules.
-
+-
 
 ## Create Project Virtual Environment
 ```
@@ -43,3 +43,9 @@ git add .
 git commit -m "start a project"
 git push origin main
 ```
+
+## APPLY: Implement 10.16 and 15.4
+
+Part 1: Chart a Straight Line
+Part 2: Predict Avg High Temp in NYC in January
+Part 3: Predict Avg High Temp in NYC in January
