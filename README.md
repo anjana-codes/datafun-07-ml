@@ -46,7 +46,7 @@ git commit -m "start a project"
 git push origin main
 ```
 
-## Implement 10.16 and 15.4
+## Implement 10.16 and 15.4 from the textbook 
 
 - Part 1: Chart a Straight Line: Follow the instructions from 10.16 (starting page 414).
 
@@ -55,7 +55,7 @@ git push origin main
 - Part 3: Predict Avg High Temp in NYC in January: Follow the steps in 15.4 (starting page 620 in your textbook).
 
 
-- Part 4: Insights comparing the two models
+- Part 4: Insights comparing the two models.
 
 - Part 5: Bonus: Follow through 15.5 (starting page 625) with the California Housing Dataset.
 
