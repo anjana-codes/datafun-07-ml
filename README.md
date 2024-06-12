@@ -73,3 +73,7 @@ git add .
 git commit -m "project is done"
 git push origin main
 ```
+
+## Link to the project
+https://github.com/anjana-codes/datafun-07-ml
+
