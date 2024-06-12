@@ -48,24 +48,16 @@ git push origin main
 
 ## Implement 10.16 and 15.4
 
-- Part 1: Chart a Straight Line
+- Part 1: Chart a Straight Line: Follow the instructions from 10.16 (starting page 414).
 
-Follow the instructions from 10.16 (starting page 414).
+- Part 2: Predict Avg High Temp in NYC in January: Follow the instructions from 10.16 (starting page 416).
 
-- Part 2: Predict Avg High Temp in NYC in January
-
- Follow the instructions from 10.16 (starting page 416).
-
-- Part 3: Predict Avg High Temp in NYC in January
-
-Follow the steps in 15.4 (starting page 620 in your textbook).
+- Part 3: Predict Avg High Temp in NYC in January: Follow the steps in 15.4 (starting page 620 in your textbook).
 
 
 - Part 4: Insights comparing the two models
 
-- Part 5: Bonus
-
-Follow through 15.5 (starting page 625) with the California Housing Dataset.
+- Part 5: Bonus: Follow through 15.5 (starting page 625) with the California Housing Dataset.
 
 ## Repeat git add and commit
 ```
